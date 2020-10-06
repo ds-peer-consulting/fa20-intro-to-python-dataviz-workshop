@@ -2,7 +2,7 @@
 ## Made & Led by Daniel del Carpio & Vincent Lao 
 
 
-## **UC Berkeley Students Click Here: [Jupyter Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/ds-peer-consulting/fa20-intro-to-python-dataviz-workshop&subpath=intro-to-dataviz.ipynb)**
+## **UC Berkeley Students Click Here: [Link to Datahub](http://datahub.berkeley.edu/user-redirect/interact?account=duncancallaway&repo=ER131_2020&branch=master&path=)**
 
 
 
