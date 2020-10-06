@@ -2,7 +2,7 @@
 ## Made & Led by Daniel del Carpio & Vincent Lao 
 
 
-## **UC Berkeley Students Click Here: [Link to Datahub](http://datahub.berkeley.edu/user-redirect/interact?account=duncancallaway&repo=ER131_2020&branch=master&path=)**
+## **UC Berkeley Students Click Here: [Link to Datahub](http://datahub.berkeley.edu/user-redirect/interact?account=ds-peer-consulting&repo=fa20-intro-to-python-datavis-workshop&branch=master&path=)**
 
 
 
