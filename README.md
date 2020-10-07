@@ -8,4 +8,4 @@
 ## **Everyone Else: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ds-peer-consulting/fa20-intro-to-python-dataviz-workshop/master)**
 
 
-If your notebook is outdated, or the links are bugging out due to merge conflict (possibly because you clicked on the same link before and downloaded it to your Datahub/local repository), please rename the folder with the same name, then try again.
+If your notebook is outdated, or the links are bugging out due to merge conflict (possibly because you clicked on the same link before and downloaded it to your Datahub/local repository), please rename the folder that has the same name as ours (i.e. fa20-intro-to-python-dataviz-workshop) , then try again.
